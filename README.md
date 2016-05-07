@@ -5,11 +5,10 @@
 
 ##### Executive Summary of [FarmVNC](https://web.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/FarmVNC)
 
-```open terminal  
-ssh 
-
+open terminal  
+ssh  
 <enter SUID PW>  
-<double authentication>```
+<double authentication>  
 
 `ssh <SUID>@corn.stanford.edu <br /> 
 enter SUID PW>  <br />
