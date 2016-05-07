@@ -5,6 +5,7 @@
 open terminal 
 ssh <SUID>@corn.stanford.edu
 <enter SUID PW>
+
 <double authentication>
 
 corn11:~> vncpasswd # set VNC password if necessary
