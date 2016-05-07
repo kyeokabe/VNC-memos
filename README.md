@@ -6,9 +6,9 @@
 ##### Executive Summary of [FarmVNC](https://web.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/FarmVNC)
 
 open terminal  
-ssh  
-<enter SUID PW>  
-<double authentication>  
+ssh SUID@corn.stanford.edu 
+*enter SUID PW*  
+*double authentication*  
 
 `ssh <SUID>@corn.stanford.edu <br /> 
 enter SUID PW>  <br />
