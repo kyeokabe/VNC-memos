@@ -1,7 +1,7 @@
 #Connect Mac to corn via VNC
 
 
-##### *This is an Executive Summary of [FarmVNC](https://web.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/FarmVNC)
+###### *This is an Executive Summary of [FarmVNC](https://web.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/FarmVNC)
 
 ###overview of steps
 > **1. Run FarmVNC on [Corn](https://web.stanford.edu/group/farmshare/)**  
