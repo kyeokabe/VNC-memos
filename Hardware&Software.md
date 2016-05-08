@@ -25,4 +25,5 @@ This is a list of Harware and Software needed for a good deep learning environme
 | **3** | [Anaconda Linux Python 2.7](https://www.continuum.io/downloads)      | $0 |
 | **4** | [Cuda 7.5](https://developer.nvidia.com/cuda-downloads)| $0 |
 | **5** | [TensorFlow r0.8](https://www.tensorflow.org/versions/r0.8/get_started/os_setup.html#anaconda-installation)| $0 |
+| **6** | [Vino](https://wiki.ubuntu.com/Lubuntu/RemoteDesktop#Installing_and_Configuring_Vino)| $0 |
 
