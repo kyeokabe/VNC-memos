@@ -27,10 +27,12 @@ yes
 <double authentication>
 ```
 **open screen sharing**
+Enter Host:
 ```
 localhost:5901
 ```
 <img src="https://github.com/kyeokabe/VNC-memos/blob/master/pics/ScreenSharing1.png" width="350">
+Enter VNC PW
 ```
 <enter VNC PW>
 ```
