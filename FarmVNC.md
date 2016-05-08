@@ -8,7 +8,7 @@
 > **1. Run FarmVNC on [Corn](https://web.stanford.edu/group/farmshare/)**  
 > **2. Setup an SSH tunnel**  
 > **3. Run Screen Sharing**  
-
+  
 **1. Run FarmVNC on Corn**  
 open a terminal on Mac
 ```
