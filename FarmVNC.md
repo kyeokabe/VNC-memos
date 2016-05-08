@@ -3,7 +3,6 @@
 
 *This is an Executive Summary of [FarmVNC](https://web.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/FarmVNC)
 
-:shipit:
 
 ###overview of steps
 > **1. Run FarmVNC on [Corn](https://web.stanford.edu/group/farmshare/)**  
@@ -44,4 +43,4 @@ Enter the VNC PW that you set in step 1:
 ```
 <img src="https://github.com/kyeokabe/VNC-memos/blob/master/pics/ScreenSharing2.png" width="350">
 
-**The corn VNC should launch on your screen**
+**The corn VNC should launch on your screen**:shipit:
