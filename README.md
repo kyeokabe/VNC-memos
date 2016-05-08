@@ -30,8 +30,8 @@ yes
 ```
 localhost:5901
 ```
-<img src="https://github.com/kyeokabe/VNC-memos/blob/master/pics/ScreenSharing1" width="350">
+<img src="https://github.com/kyeokabe/VNC-memos/blob/master/pics/ScreenSharing1.png" width="350">
 ```
 <enter VNC PW>
 ```
-<img src="https://github.com/kyeokabe/VNC-memos/blob/master/pics/ScreenSharing2" width="350">
+<img src="https://github.com/kyeokabe/VNC-memos/blob/master/pics/ScreenSharing2.png" width="350">
