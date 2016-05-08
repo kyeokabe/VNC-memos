@@ -4,11 +4,11 @@
 ##### Executive Summary of [FarmVNC](https://web.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/FarmVNC)
 
 ###overview
-<p>1. open a terminal on Mac</p>  
-  **2.open a new terminal on Mac**  
-  **3.open a new**  
+**1. open a terminal on Mac
+**2. open a new terminal on Mac**  
+**3. open [Screen Sharing] (https://osxdaily.com/2013/04/05/vnc-client-mac-os-x-screen-sharing/)**  
 
-**open a terminal on Mac** 
+**1. open a terminal on Mac** 
 ```
 ssh <SUID>@corn.stanford.edu
 <enter SUID PW>
@@ -21,7 +21,7 @@ farmvnc 1440x900
 This should output the following screen:  
 <img src="https://github.com/kyeokabe/VNC-memos/blob/master/pics/farmVNC.png" width="350">
 
-**open a new terminal on Mac**
+**2. open a new terminal on Mac**
 
 ```
 ssh -L 5901:localhost:XYZW<SUID>@cornPQ.stanford.edu
@@ -29,7 +29,7 @@ yes
 <enter SUID PW>
 <double authentication>
 ```
-**open [Screen Sharing](https://osxdaily.com/2013/04/05/vnc-client-mac-os-x-screen-sharing/)**  
+**3. open [Screen Sharing](https://osxdaily.com/2013/04/05/vnc-client-mac-os-x-screen-sharing/)**  
 Enter Host:
 ```
 localhost:5901
