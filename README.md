@@ -1,4 +1,4 @@
-##Directory of this repository
+##Overview
 
 This repository is a collection of useful notes for "real life" deep learning related topics
 
