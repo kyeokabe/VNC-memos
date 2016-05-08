@@ -8,3 +8,4 @@
 **6. [Stanford CS224d](http://cs224d.stanford.edu/syllabus.html)** ... Introduction to TensorFlow is especially good  
 **7. [dennybritz DL Repository](https://github.com/dennybritz/deeplearning-papernotes)** ... most comprehensive summary of DL ArXiv papers on the web
 
+**[GIT & GIT HUB tutorial](https://youtu.be/xKVlZ3wFVKA?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD)**
