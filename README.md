@@ -1,9 +1,11 @@
-# VNC memos
-
-##Connect Mac to [corn](https://web.stanford.edu/group/farmshare/) via VNC
+#Connect Mac to [corn](https://web.stanford.edu/group/farmshare/) via VNC
 
 
 ##### Executive Summary of [FarmVNC](https://web.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/FarmVNC)
+
+*r  
+*i  
+*j  
 
 **open a terminal on Mac** 
 ```
