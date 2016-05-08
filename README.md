@@ -1,6 +1,6 @@
 # VNC memos
 
-## making a VNC connection from a Mac to corn@stanford (Ubuntu)
+##Connect Mac to corn@stanford via VNC
 
 
 ##### Executive Summary of [FarmVNC](https://web.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/FarmVNC)
