@@ -22,7 +22,7 @@ farmvnc 1440x900
 This should output the following screen:  
 <img src="https://github.com/kyeokabe/VNC-memos/blob/master/pics/farmVNC.png" width="350">
 
-**2. Setup an SSH tunnel**
+**2. Setup an SSH tunnel**  
 open a *new* terminal on Mac
 ```
 ssh -L 5901:localhost:XYZW<SUID>@cornPQ.stanford.edu
@@ -31,12 +31,12 @@ yes
 <double authentication>
 ```
 **3. Run [Screen Sharing](https://osxdaily.com/2013/04/05/vnc-client-mac-os-x-screen-sharing/)**  
-Enter Host:
+Launch Screen Sharing and enter "localhost:5901" in Host:  
 ```
 localhost:5901
 ```
 <img src="https://github.com/kyeokabe/VNC-memos/blob/master/pics/ScreenSharing1.png" width="350">  
-Enter VNC PW:
+Enter the VNC PW that you set in step 1:  
 ```
 <enter VNC PW>
 ```
