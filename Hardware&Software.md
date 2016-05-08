@@ -1,6 +1,7 @@
 ##Hardware and Software
 
-This is a list of Harware and Software needed for a good deep learning environment
+This is a list of Harware and Software needed for a good deep learning environment as of May 2016
+
 
 **Hardware**
 
