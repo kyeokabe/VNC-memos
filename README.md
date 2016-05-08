@@ -16,7 +16,7 @@
   farmvnc 1440x900
 ```
 
-![alt tag](VNC-memos/pics/farmVNC.png)
+![alt tag]()
 
 **open a new terminal on Mac**
 
