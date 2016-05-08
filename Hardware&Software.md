@@ -5,7 +5,7 @@ This is a list of Harware and Software needed for a good deep learning environme
 
 **Hardware**
 
-|  No.  | Component        | Item | Rough Price  | why this?
+|  No.  | Component        | Item | Price  | why this?
 | :---: | :-------------: |:-------------:|:---:|:--:|
 | **1** | CPU      | [Intel Core i7 6850K](http://wccftech.com/intel-broadwell-e-core-i7-6950x-price/) | $550 |supports 40 PCIe 3.0 lanes -> 4-way SLI compatible
 | **2** | GPU      | [NVIDIA GTX 1080](http://www.geforce.com/hardware/10series/geforce-gtx-1080)      | $699 |interim GPU until GP100 release
