@@ -24,7 +24,7 @@ This should output the following screen:
 <img src="https://github.com/kyeokabe/VNC-memos/blob/master/pics/farmVNC.png" width="350">
 
 **2. Setup an SSH tunnel**  
-open a *new* terminal on Mac
+open a *new* terminal on Mac  
 Enter the code below:  
 *(XYZW and PQ will vary)*  
 ```
