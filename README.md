@@ -15,7 +15,7 @@ module load farmvnc
 farmvnc
 farmvnc 1440x900
 ```
-
+This should output the following screen:  
 <img src="https://github.com/kyeokabe/VNC-memos/blob/master/pics/farmVNC.png" width="350">
 
 **open a new terminal on Mac**
@@ -32,8 +32,10 @@ Enter Host:
 localhost:5901
 ```
 <img src="https://github.com/kyeokabe/VNC-memos/blob/master/pics/ScreenSharing1.png" width="350">  
-Enter VNC PW
+Enter VNC PW:
 ```
 <enter VNC PW>
 ```
 <img src="https://github.com/kyeokabe/VNC-memos/blob/master/pics/ScreenSharing2.png" width="350">
+
+**The corn VNC should launch on your screen**
