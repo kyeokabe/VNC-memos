@@ -1,7 +1,7 @@
 #Connect Mac to corn via VNC
 
 
-*This is a digest of [FarmVNC](https://web.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/FarmVNC) using Screen Sharing
+*This guide is a digest of [FarmVNC](https://web.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/FarmVNC) using Screen Sharing
 
 
 ###overview of steps
