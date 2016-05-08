@@ -18,12 +18,12 @@ This is a list of Harware and Software needed for a good deep learning environme
 
 **Software**
 
-|  No.  | Function | Name |  Price  |
-| :---: | :--: | :-------------: |:-------------:|
+|  No.  | Function | Name |  Price  | Installation Tips
+| :---: | :--: | :-------------: |:-------------:|:--:
 | **1** | BIOS | BIOS TBS           | $0 |
 | **2** | OS | [Ubuntu 16.04 LST](http://www.ubuntu.com/download/desktop)           | $0 |
 | **3** | Python Distribution| [Anaconda Linux Python 2.7](https://www.continuum.io/downloads)      | $0 |
-| **4** | GPU Computing | [Cuda 7.5](https://developer.nvidia.com/cuda-downloads)| $0 |
+| **4** | GPU Computing | [Cuda 7.5](https://developer.nvidia.com/cuda-downloads)| $0 | [Link1](http://docs.nvidia.com/cuda/cuda-installation-guide-linux/#axzz482cS7SJI)
 | **5** | Framework | [TensorFlow r0.8](https://www.tensorflow.org/versions/r0.8/get_started/os_setup.html#anaconda-installation)| $0 |
 | **6** | VNC | [Vino](https://wiki.ubuntu.com/Lubuntu/RemoteDesktop#Installing_and_Configuring_Vino)| $0 |
 
