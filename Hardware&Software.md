@@ -1,5 +1,7 @@
 ##Hardware and Software
 
+This is a list of Harware and Software needed for a good deep learning environment
+
 **Hardware**
 
 | Count | Component        | Item | Rough Price  |
