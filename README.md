@@ -3,9 +3,11 @@
 
 ##### Executive Summary of [FarmVNC](https://web.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/FarmVNC)
 
-* r  
-* i  
-* j  
+###overview
+
+1.open a terminal on Mac
+2.open a new terminal on Mac
+3.open a new
 
 **open a terminal on Mac** 
 ```
