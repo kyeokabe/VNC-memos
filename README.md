@@ -5,9 +5,9 @@
 
 ###overview
 
-1.open a terminal on Mac
-2.open a new terminal on Mac
-3.open a new
+**1.open a terminal on Mac**  
+**2.open a new terminal on Mac**  
+**3.open a new**  
 
 **open a terminal on Mac** 
 ```
