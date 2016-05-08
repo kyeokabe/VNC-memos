@@ -1,13 +1,13 @@
 #Connect Mac to corn via VNC
 
 
-*This guide is a digest of [FarmVNC](https://web.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/FarmVNC) using Screen Sharing
+*This guide is a digest of [FarmVNC](https://web.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/FarmVNC) using [Screen Sharing](https://osxdaily.com/2013/04/05/vnc-client-mac-os-x-screen-sharing/)
 
 
 ###overview of steps
 > **1. Run FarmVNC on [Corn](https://web.stanford.edu/group/farmshare/)**  
 > **2. Setup an SSH tunnel**  
-> **3. Run [Screen Sharing] (https://osxdaily.com/2013/04/05/vnc-client-mac-os-x-screen-sharing/)**  
+> **3. Run Screen Sharing**  
 
 **1. Run FarmVNC on Corn**  
 open a terminal on Mac
