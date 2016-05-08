@@ -26,7 +26,7 @@ yes
 <enter SUID PW>
 <double authentication>
 ```
-**open screen sharing**  
+**open [Screen Sharing](https://osxdaily.com/2013/04/05/vnc-client-mac-os-x-screen-sharing/)**  
 Enter Host:
 ```
 localhost:5901
