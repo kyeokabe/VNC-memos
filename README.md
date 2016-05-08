@@ -16,8 +16,7 @@
   farmvnc 1440x900
 ```
 
-![alt tag]()
-
+<img src="https://github.com/kyeokabe/VNC-memos/blob/master/pics/farmVNC.png" width="350">  
 **open a new terminal on Mac**
 
 ```
