@@ -25,6 +25,7 @@ This should output the following screen:
 
 **2. Setup an SSH tunnel**  
 open a *new* terminal on Mac
+Enter the code below: (XYZW and PQ will vary)
 ```
 ssh -L 5901:localhost:XYZW<SUID>@cornPQ.stanford.edu
 yes
