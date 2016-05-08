@@ -3,6 +3,8 @@
 
 *This is an Executive Summary of [FarmVNC](https://web.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/FarmVNC)
 
+:shipit:
+
 ###overview of steps
 > **1. Run FarmVNC on [Corn](https://web.stanford.edu/group/farmshare/)**  
 > **2. Setup an SSH tunnel**  
