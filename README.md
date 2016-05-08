@@ -14,4 +14,6 @@ open terminal
 <b>module load farmvnc</b> <i>    this loads but does not launch the program</i> 
 <b>farmvnc</b> <i>                this will show you the resolution options</i>
 <b>farmvnc 1440x900</b> <i>       launch farmvnc with selected resolution</i>
-corn11:~>   
+</pre> 
+
+test
