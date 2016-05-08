@@ -1,7 +1,7 @@
 #Connect Mac to corn via VNC
 
 
-*This is an Executive Summary of [FarmVNC](https://web.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/FarmVNC)
+*This is a digest of [FarmVNC] using Screen Sharing(https://web.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/FarmVNC)
 
 
 ###overview of steps
@@ -43,4 +43,4 @@ Enter the VNC PW that you set in step 1:
 ```
 <img src="https://github.com/kyeokabe/VNC-memos/blob/master/pics/ScreenSharing2.png" width="350">
 
-**The corn VNC should launch on your screen**:shipit:
+**The corn VNC should launch on your screen**  :shipit:
