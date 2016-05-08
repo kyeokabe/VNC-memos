@@ -8,7 +8,7 @@
 > **2. Setup an SSH tunnel**  
 > **3. Run [Screen Sharing] (https://osxdaily.com/2013/04/05/vnc-client-mac-os-x-screen-sharing/)**  
 
-**1. Run FarmVNV on Corn** 
+**1. Run FarmVNC on Corn** 
 open a terminal on Mac
 ```
 ssh <SUID>@corn.stanford.edu
