@@ -13,7 +13,7 @@ This is a list of Harware and Software needed for a good deep learning environme
 | **4** | DRAM  | [Corsair LPX 32GB](http://www.newegg.com/Product/Product.aspx?Item=N82E16820233894)| $170 | DDR4, overclockable, not too important
 | **5** | Motherboard  | TBS | ~$399 | TBS, want M.2 & 4 x 3.0 PCIe x16/x8 lanes
 | **6** | Power (~1200W?)  | TBS | ~$TBS | Probably need around 1200W for 4-way GP100 SLI
-| **7** | Monitor  | [BenQ BL2711U 4K IPS](http://www.amazon.com/dp/B00RORBPEW/ref=twister_B00WO1H7CM?_encoding=UTF8&psc=1)| $599 | 4K, IPS -> vivid colors & high viewing angle
+| **7** | Monitor  | [BenQ BL2711U 4K IPS](http://www.amazon.com/dp/B00RORBPEW/ref=twister_B00WO1H7CM?_encoding=UTF8&psc=1)| $599 | 4K, IPS display -> vivid colors & high viewing angle
 
 
 **Software**
