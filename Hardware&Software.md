@@ -1,6 +1,6 @@
 ##Hardware and Software
 
-Hardware
+**Hardware**
 
 | Component        | Item | Rough Price  |
 | :-------------: |:-------------:|:---:|
@@ -10,7 +10,7 @@ Hardware
 | Monitor  | [BenQ BL2711U 4K IPS](http://www.amazon.com/dp/B00RORBPEW/ref=twister_B00WO1H7CM?_encoding=UTF8&psc=1)| $599 |
 
 
-Software
+**Software**
 
 |  Name |  Price  |
 | :-------------: |:-------------:|
