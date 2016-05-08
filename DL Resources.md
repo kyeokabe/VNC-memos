@@ -6,4 +6,5 @@
 **4. [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)**  ... good LSTM overview  
 **5. [First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/)**  ... good introduction to TensorFlow  
 **6. [Stanford CS224d](http://cs224d.stanford.edu/syllabus.html)** ... Introduction to TensorFlow is especially good
+**7. [dennybritz DL Repository](https://github.com/dennybritz/deeplearning-papernotes)** ... most comprehensive summary of DL papers on the web
 
