@@ -4,7 +4,7 @@
 ##### Executive Summary of [FarmVNC](https://web.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/FarmVNC)
 
 ###overview
-<p>1. open a terminal on Mac<\p>  
+<p>1. open a terminal on Mac</p>  
   **2.open a new terminal on Mac**  
   **3.open a new**  
 
