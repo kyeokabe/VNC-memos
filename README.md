@@ -4,7 +4,7 @@
 ##### Executive Summary of [FarmVNC](https://web.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/FarmVNC)
 
 ###overview
-**1. open a terminal on Mac
+**1. open a terminal on Mac**  
 **2. open a new terminal on Mac**  
 **3. open [Screen Sharing] (https://osxdaily.com/2013/04/05/vnc-client-mac-os-x-screen-sharing/)**  
 
