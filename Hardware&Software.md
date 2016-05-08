@@ -14,6 +14,8 @@
 
 |  Name |  Price  |
 | :-------------: |:-------------:|
-| [Ubuntu 16.04 LST](http://www.ubuntu.com/download/desktop)          | $0 |
-| [Anaconda Linux Python2.7](https://www.continuum.io/downloads)      | $0 |
+| [Ubuntu 16.04 LST](http://www.ubuntu.com/download/desktop)           | $0 |
+| [Anaconda Linux Python 2.7](https://www.continuum.io/downloads)      | $0 |
+| [Cuda 7.5](https://developer.nvidia.com/cuda-downloads)| $0 |
+| [TensorFlow r0.8](https://www.tensorflow.org/versions/r0.8/get_started/os_setup.html#anaconda-installation)| $0 |
 
