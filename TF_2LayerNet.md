@@ -1,6 +1,8 @@
 [**[ArXiv Paper](http://arxiv.org/abs/1603.04467)**]
 [**[TF Notes](https://github.com/samjabrahams/tensorflow-white-paper-notes)**]
 [**[TF Examples](https://github.com/pkmital/tensorflow_tutorials)**]  
+[**[TF Examples2](https://github.com/pkmital/tensorflow_tutorials)**]  
+[**[TF API](https://www.tensorflow.org/versions/r0.8/api_docs/python/index.html)**]
 ###overview of steps
 **1. Download and run TF_2LayerNet.py**  
 **2. *Activate* TensorBoard**  
