@@ -1,3 +1,5 @@
+[TensorFlow ArXiv Paper](http://arxiv.org/abs/1603.04467)
+
 ###overview of steps
 **1. Download and run TF_2LayerNet.py**  
 **2. *Activate* TensorBoard**  
