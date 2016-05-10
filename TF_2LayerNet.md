@@ -21,6 +21,7 @@ the output should look like
 <img src="https://github.com/kyeokabe/notes/blob/master/pics/TF_2LayerNet_Output.png" width="500">  
 
 To *activate* TensorBoard, enter the following in terminal:  
+(change */tmp/fc_logs* accordingly if you change the source code )
 ```
 tensorboard --logdir=/tmp/fc_logs    
 ```
