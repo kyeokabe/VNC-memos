@@ -15,10 +15,11 @@ the output should look like
 
 <img src="https://github.com/kyeokabe/notes/blob/master/pics/TF_2LayerNet_Output.png" width="500">  
 
-To *activate* TensorBoard, enter:
+To *activate* TensorBoard, enter the following in terminal:  
 ```
 tensorboard --logdir=/tmp/fc_logs    
 ```
+The output should look like:  
 <img src="https://github.com/kyeokabe/notes/blob/master/pics/TB.png" width="500">  
 To *view* TensorBoard, open a Chrome browser and enter the following in the address bar:  
 
