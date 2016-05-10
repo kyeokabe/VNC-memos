@@ -13,21 +13,21 @@ python TF_2LayerNet.py
 ```
 the output should look like  
 
-<img src="https://github.com/kyeokabe/notes/blob/master/pics/TF_2LayerNet_Output.png" width="400">  
+<img src="https://github.com/kyeokabe/notes/blob/master/pics/TF_2LayerNet_Output.png" width="500">  
 
+To *activate* TensorBoard, enter:
 ```
 tensorboard --logdir=/tmp/fc_logs    
 ```
-<img src="https://github.com/kyeokabe/notes/blob/master/pics/TB.png" width="850">  
-open a Chrome browser  
-in the address bar, enter:  
+<img src="https://github.com/kyeokabe/notes/blob/master/pics/TB.png" width="500">  
+To *view* TensorBoard, open a Chrome browser and enter the following in the address bar:  
 
 ```
 http://0.0.0.0:6006  
 ```
 <img src="https://github.com/kyeokabe/notes/blob/master/pics/address_bar.png" width="850">  
 
-you should now be able to navigate through the Graph, Events and Histograms  
+You should now be able to navigate through the Graph, Events and Histograms  
   
 **Graph**  
 <img src="https://github.com/kyeokabe/notes/blob/master/pics/TF_2LayerNet_Graphs.png" width="850">  
