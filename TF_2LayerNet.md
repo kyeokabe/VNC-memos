@@ -4,7 +4,8 @@ OSX 10.11.3
 TensorFlow r0.8 (OSX, CPU only)  
 Google Chrome ver. 50.0.2661.86 (64-bit)  
   
-open terminal  
+open terminal
+enter:  
 ```
 cd <TF_2LayerNet directory>  
 python TF_2LayerNet.py  
