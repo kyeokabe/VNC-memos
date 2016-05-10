@@ -1,7 +1,7 @@
 **Environments:**  
 >Macbook Pro 15" Mid 2012  
 >OSX 10.11.3  
->Anaconda ver 2.5.0 (x86_64)  
+>Anaconda ver. 2.5.0 (x86_64)  
 >Python ver. 2.7.11  
 >Numpy ver. 1.11.0  
 >TensorFlow r0.8 (OSX, CPU only)  
