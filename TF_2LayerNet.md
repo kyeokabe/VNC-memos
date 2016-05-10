@@ -1,0 +1,6 @@
+This should output the following screen:  
+<img src="https://github.com/kyeokabe/VNC-memos/blob/master/pics/farmVNC.png" width="350">
+
+<img src="https://github.com/kyeokabe/VNC-memos/blob/master/pics/farmVNC.png" width="350">
+
+<img src="https://github.com/kyeokabe/VNC-memos/blob/master/pics/farmVNC.png" width="350">
