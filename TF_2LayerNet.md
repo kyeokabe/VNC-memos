@@ -23,6 +23,8 @@ in the address bar, enter:
 ```
 http://0.0.0.0:6006  
 ```
+<img src="https://github.com/kyeokabe/notes/blob/master/pics/address_bar.png" width="850">  
+
 you should now be able to navigate through the Graph, Events and Histograms  
   
 **Graph**  
