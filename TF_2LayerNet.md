@@ -1,8 +1,8 @@
 **Environments:**  
-Macbook Pro 15" Mid 2012  
-OSX 10.11.3  
-TensorFlow r0.8 (OSX, CPU only)  
-Google Chrome ver. 50.0.2661.86 (64-bit)  
+>Macbook Pro 15" Mid 2012  
+>OSX 10.11.3  
+>TensorFlow r0.8 (OSX, CPU only)  
+>Google Chrome ver. 50.0.2661.86 (64-bit)  
   
 open terminal  
 change directory to where TF_2LayerNet.py is stored  
