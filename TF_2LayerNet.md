@@ -6,9 +6,11 @@
 >Numpy ver. 1.11.0  
 >TensorFlow r0.8 (OSX, CPU only)  
 >Google Chrome ver. 50.0.2661.86 (64-bit)  
+
+Download TF_2LayerNet.py and place it in an appropriate directory
   
-open terminal  
-change directory to where TF_2LayerNet.py is stored  
+Open terminal  
+Change directory to where TF_2LayerNet.py is stored  
 run TF_2LayerNet.py  
 ```
 cd <TF_2LayerNet directory>  
