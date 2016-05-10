@@ -22,9 +22,9 @@ in the address bar, enter:
 ```
 http://0.0.0.0:6006  
 ```
-you should now be able to navigate through the Graphs, Events and Histograms  
+you should now be able to navigate through the Graph, Events and Histograms  
   
-**Graphs**  
+**Graph**  
 <img src="https://github.com/kyeokabe/notes/blob/master/pics/TF_2LayerNet_Graphs.png" width="850">  
   
 **Events**  
