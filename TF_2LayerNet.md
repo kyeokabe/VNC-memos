@@ -12,7 +12,8 @@
 >TensorFlow r0.8 (OSX, CPU only)  
 >Google Chrome ver. 50.0.2661.86 (64-bit)  
 
-**1.** Download [TF_2LayerNet.py](https://github.com/kyeokabe/notes/blob/master/TF_2LayerNet.py) and place it in an appropriate directory
+**1.**  
+Download [TF_2LayerNet.py](https://github.com/kyeokabe/notes/blob/master/TF_2LayerNet.py) and place it in an appropriate directory
   
 Open terminal  
 Change directory to where TF_2LayerNet.py is stored  
@@ -25,7 +26,8 @@ the output should look like
 
 <img src="https://github.com/kyeokabe/notes/blob/master/pics/TF_2LayerNet_Output.png" width="500">  
 
-**2.** To *activate* TensorBoard, enter the following in terminal:  
+**2.**  
+To *activate* TensorBoard, enter the following in terminal:  
 (change */tmp/fc_logs* accordingly if you change the source code )
 ```
 tensorboard --logdir=/tmp/fc_logs    
@@ -33,7 +35,8 @@ tensorboard --logdir=/tmp/fc_logs
 The output should look like:  
 <img src="https://github.com/kyeokabe/notes/blob/master/pics/TB.png" width="500">  
   
-**3.** To *view* TensorBoard, open a Chrome browser and enter the following in the address bar:  
+**3.**  
+To *view* TensorBoard, open a Chrome browser and enter the following in the address bar:  
 
 ```
 http://0.0.0.0:6006  
