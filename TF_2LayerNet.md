@@ -13,10 +13,12 @@ python TF_2LayerNet.py
 ```
 the output should look like  
 
+<img src="https://github.com/kyeokabe/notes/blob/master/pics/TF_2LayerNet_Output.png" width="850">  
+
 ```
 tensorboard --logdir=/tmp/fc_logs    
 ```
-
+<img src="https://github.com/kyeokabe/notes/blob/master/pics/TB.png" width="850">  
 open a Chrome browser  
 in the address bar, enter:  
 
