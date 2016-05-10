@@ -7,7 +7,7 @@
 >TensorFlow r0.8 (OSX, CPU only)  
 >Google Chrome ver. 50.0.2661.86 (64-bit)  
 
-Download TF_2LayerNet.py and place it in an appropriate directory
+Download [TF_2LayerNet.py](https://github.com/kyeokabe/notes/blob/master/TF_2LayerNet.py) and place it in an appropriate directory
   
 Open terminal  
 Change directory to where TF_2LayerNet.py is stored  
