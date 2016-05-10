@@ -5,7 +5,7 @@ TensorFlow r0.8 (OSX, CPU only)
 Google Chrome ver. 50.0.2661.86 (64-bit)  
   
 open terminal  
-change directory to where TF_2LayerNet.py is stored
+change directory to where TF_2LayerNet.py is stored  
 run TF_2LayerNet.py  
 ```
 cd <TF_2LayerNet directory>  
