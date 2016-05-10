@@ -1,3 +1,8 @@
+###overview of steps
+**1. Download and run TF_2LayerNet.py**  
+**2. *Activate* TensorBoard**  
+**3. *View* TensorBoard**  
+
 **Environments:**  
 >Macbook Pro 15" Mid 2012  
 >OSX 10.11.3  
