@@ -1,5 +1,5 @@
 **Environments:**  
-Macbook Pro 15' Mid 2012  
+Macbook Pro 15" Mid 2012  
 OSX 10.11.3  
 TensorFlow r0.8 (OSX, CPU only)  
 Google Chrome ver. 50.0.2661.86 (64-bit)  
@@ -22,9 +22,13 @@ in the address bar, enter:
 ```
 http://0.0.0.0:6006  
 ```
-
+you should now be able to navigate through the Graphs, Events and Histograms  
+  
+**Graphs**  
 <img src="https://github.com/kyeokabe/notes/blob/master/pics/TF_2LayerNet_Graphs.png" width="850">  
-
+  
+**Events**  
 <img src="https://github.com/kyeokabe/notes/blob/master/pics/TF_2LayerNet_Events.png" width="850">  
-
+  
+**Histrograms**  
 <img src="https://github.com/kyeokabe/VNC-memos/blob/master/pics/TF_2LayerNet_Histrograms.png" width="850">  
