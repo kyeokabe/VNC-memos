@@ -1,5 +1,6 @@
-[TensorFlow ArXiv Paper](http://arxiv.org/abs/1603.04467)
-
+**TensorFlow**  
+**[ArXiv Paper](http://arxiv.org/abs/1603.04467)**  
+**[Summary](https://github.com/samjabrahams/tensorflow-white-paper-notes)**  
 ###overview of steps
 **1. Download and run TF_2LayerNet.py**  
 **2. *Activate* TensorBoard**  
