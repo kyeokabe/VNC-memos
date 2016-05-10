@@ -13,7 +13,7 @@ python TF_2LayerNet.py
 ```
 the output should look like  
 
-<img src="https://github.com/kyeokabe/notes/blob/master/pics/TF_2LayerNet_Output.png" width="850">  
+<img src="https://github.com/kyeokabe/notes/blob/master/pics/TF_2LayerNet_Output.png" width="400">  
 
 ```
 tensorboard --logdir=/tmp/fc_logs    
