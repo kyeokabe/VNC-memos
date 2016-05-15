@@ -1,4 +1,12 @@
 
+use  
+vim  
+z shell  
+intellij  
+  
+scalla  
+haskell  
+
 tensorflow/tensorflow/python/ops/gradients.py
 **[back prop](https://github.com/tensorflow/tensorflow/blob/7b4d733593842361d066d7e33a03a07da5dca465/tensorflow/python/ops/gradients.py)**  
 
