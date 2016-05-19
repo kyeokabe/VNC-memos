@@ -1,13 +1,16 @@
-**i)**  on paper, write the mathematical equation governing the relation between inputs  
+#Softmax Python Example  
+###This file takes the softmax linear classifier as an example, and shows how to implement *legible* python code from scratch.
+
+**(1)**  on paper, write the mathematical equation governing the relation between inputs  
         and outputs
     
-**ii)**   on paper, write the corresponding computational graph. clearly identify every  
+**(2)**   on paper, write the corresponding computational graph. clearly identify every  
       branching or operations being performed on tensors (arrays)
      
-**iii)**  assign a name to every edges (lines), and write the corresponding tensor dimensions  
+**(3)**  assign a name to every edges (lines), and write the corresponding tensor dimensions  
     
 **FORWARD PROP:**  
-**iv)**  starting from the input(s), write step by step the corresponding FORWARD PROP  
+**(4)**  starting from the input(s), write step by step the corresponding FORWARD PROP  
       operations. it is good practice to denote step numbers in the comments for every step.
       to avoid broadcasting errors, it is recommended to stay consistent with tensor shapes
       specifically, tensors with shape (m,) should be reshaped to a shape of (m,1).
@@ -30,13 +33,13 @@ better=a/c
 ```
 
 
-  **v)**  for modularized code, if necessary, store variables in cache using a tuple or dictionary.
+  **(5)**  for modularized code, if necessary, store variables in cache using a tuple or dictionary.
       If the function returns just a forward prop, return the loss (and depending on situations,
      the cache as well). If a separate function is called for back prop, unpack the cache at the
      beginning of the function
          
 **BACK PROP:**  
-**vi)**  
+**(6)**  
          starting from the output, write step by step the corresponding BACK PROP operations.
          comment step numbers and dimensions of tensors for legibility. Note that if tensor Z has
          shape (m,n), dL/dZ (commonly abbreviated as dZ) will and should also have shape (m,n).
