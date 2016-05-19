@@ -4,6 +4,7 @@ This repository (still in the making) is a collection of end to end practical & 
 
 **[Hardware&Software](https://github.com/kyeokabe/notes/blob/master/Hardware%26Software.md)** ...  What hardware should I buy? What software should I install?  
 **[DL Resources](https://github.com/kyeokabe/notes/blob/master/DL%20Resources.md)** ... Where can I learn deep learning?  
+**[Softmax Python Example](https://github.com/kyeokabe/notes/blob/master/softmax%20python%20example.md)** ... Shows how to implement *legible* forward & back prop code in python using the linear softmax classifier as an example
 **[TF 2 Layer Net](https://github.com/kyeokabe/notes/blob/master/TF_2LayerNet.md)** ... Shows how to use TensorBoard with a 2 layer net toy program  
 **[FarmVNC](https://github.com/kyeokabe/notes/blob/master/FarmVNC.md)** ... Describes how to make a Mac to corn VNC connection  
 
