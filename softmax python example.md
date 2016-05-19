@@ -114,65 +114,65 @@ loss=R+alpha
 ###BACK PROP 
 ```python
 
-    #operation 14    dalpha.shape=(), dR.shape=()
-    dalpha=1.0 #branch 1
-    dR=1.0      #branch 2
+#operation 14    dalpha.shape=(), dR.shape=()
+dalpha=1.0 #branch 1
+dR=1.0      #branch 2
 
-    #operation 13    dbeta.shape=()
-    dbeta=dalpha/float(N)
+#operation 13    dbeta.shape=()
+dbeta=dalpha/float(N)
     
-    #operation 12    dgamma.shape=(N,1)
-    #dgamma=np.array([dbeta,]*N)  #alternative fancy method
-    dgamma=dbeta*np.ones((N,1))
+#operation 12    dgamma.shape=(N,1)
+#dgamma=np.array([dbeta,]*N)  #alternative fancy method
+dgamma=dbeta*np.ones((N,1))
     
-    #operation 11    dm.shape=(N,1), dj.shape=(N,1)
-    dm=-dgamma
-    dj=dgamma
+#operation 11    dm.shape=(N,1), dj.shape=(N,1)
+dm=-dgamma
+dj=dgamma
         
-    #operation 10    di.shape=(N,1)
-    di=dj/i
+#operation 10    di.shape=(N,1)
+di=dj/i
         
-    #operation 9    dh.shape=(N,C)
-    dh=di*np.ones((N,C))
+#operation 9    dh.shape=(N,C)
+dh=di*np.ones((N,C))
     
-    #operation 8    dg.shape=(N,C)
-    dg=dh*np.exp(g)
+#operation 8    dg.shape=(N,C)
+dg=dh*np.exp(g)
     
-    #operation 7    dk.shape=(N,C)    
-    temp=np.zeros((N,C))
-    temp[np.arange(N),y]=1.0
-    dk=dm*temp                                            #this step is difficult!
+#operation 7    dk.shape=(N,C)    
+temp=np.zeros((N,C))
+temp[np.arange(N),y]=1.0
+dk=dm*temp                                            #this step is difficult!
     
-    #branch 3    df.shape=(N,C)
-    df=dg+dk
+#branch 3    df.shape=(N,C)
+df=dg+dk
     
-    #operation 6    db.shape=(N,C), dd.shape=()
-    db=df
-    dd=-np.ones((1,N)).dot(df).dot(np.ones((C,1))) #two dimensional broadcasting!
+#operation 6    db.shape=(N,C), dd.shape=()
+db=df
+dd=-np.ones((1,N)).dot(df).dot(np.ones((C,1))) #two dimensional broadcasting!
     
-    #operation 5    dc.shape=(N,C)
-    temp2=np.zeros(N*C)
-    temp2[np.argmax(c)]=1.0
-    temp2=temp2.reshape((N-1)) #temp2 is a (N,C) zeros matrix with max_index of c = 1.0
-    dc=dd*temp2
+#operation 5    dc.shape=(N,C)
+temp2=np.zeros(N*C)
+temp2[np.argmax(c)]=1.0
+temp2=temp2.reshape((N-1)) #temp2 is a (N,C) zeros matrix with max_index of c = 1.0
+dc=dd*temp2
     
-    #branch 2    da.shape=(N,C)
-    da=db+dc #note that you can omit adding dc to da. check red notebook p.12 for proof
+#branch 2    da.shape=(N,C)
+da=db+dc #note that you can omit adding dc to da. check red notebook p.12 for proof
     
-    #operation 4    dX.shape=(N,D), dW1.shape=(D,C)
-    dX=da.dot(W.T)    #branch 1
-    dW1=X.T.dot(da)    #branch 2
+#operation 4    dX.shape=(N,D), dW1.shape=(D,C)
+dX=da.dot(W.T)    #branch 1
+dW1=X.T.dot(da)    #branch 2
     
-    #operation 3    dR.shape=()
-    dW4=dR*0.5*reg
+#operation 3    dR.shape=()
+dW4=dR*0.5*reg
     
-    #operation 2    dW3.shape=(D,C)
-    dW3=dW4*np.ones((D,C))
+#operation 2    dW3.shape=(D,C)
+dW3=dW4*np.ones((D,C))
     
-    #operation 1    dW2.shape=(D,C)
-    dW2=dW3*2*W2
+#operation 1    dW2.shape=(D,C)
+dW2=dW3*2*W2
     
-    #branch 1
-    dW=dW1+dW2
+#branch 1
+dW=dW1+dW2
 
 ```
