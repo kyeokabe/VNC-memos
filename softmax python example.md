@@ -2,11 +2,11 @@
 ###This file takes the softmax linear classifier as an example, and shows how to implement *legible* forward & back propagation code in python from scratch.
 
 **PAPERWORK:**  
-**(1)**  on paper, write the mathematical equation governing the relation between inputs  
+**(1)**  write down the mathematical equation governing the relation between inputs  
         and outputs
     
-**(2)**   on paper, write the corresponding computational graph. clearly identify every  
-      branching or operations being performed on tensors (arrays)
+**(2)**   draw the corresponding computational graph. clearly identify every  
+      branching and/or operations being performed on all tensors  
      
 **(3)**  assign a name to every edges (lines), and write the corresponding tensor dimensions  
     
@@ -58,7 +58,7 @@ D,C=W.shape
     
     
 
-###FORWARD PROP ###
+###FORWARD PROP CODE###
 
   
 ```python
@@ -116,7 +116,7 @@ alpha=beta/float(N)
 loss=R+alpha
   ```  
   
-###BACK PROP 
+###BACK PROP CODE
 ```python
 
 #operation 14    dalpha.shape=(), dR.shape=()
