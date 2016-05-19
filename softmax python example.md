@@ -1,5 +1,5 @@
 #Softmax Python Example  
-###This file takes the softmax linear classifier as an example, and shows how to implement *legible* python code from scratch.
+###This file takes the softmax linear classifier as an example, and shows how to implement *legible* forward & back propagation code in python from scratch.
 
 **PAPERWORK:**  
 **(1)**  on paper, write the mathematical equation governing the relation between inputs  
