@@ -177,7 +177,7 @@ dW3=dW4*np.ones((D,C))
 #operation 1    dW2.shape=(D,C)
 dW2=dW3*2*W2
     
-#branch 1
+#branch 1    dW.shape=(D,C)
 dW=dW1+dW2
 
 ```
