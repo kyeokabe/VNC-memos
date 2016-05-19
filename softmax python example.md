@@ -6,8 +6,8 @@
      
 **iii)**  assign a name to every edges (lines), and write the corresponding tensor dimensions  
     
-**iv)**   **FORWARD PROP:**  
-      starting from the input(s), write step by step the corresponding FORWARD PROP  
+**FORWARD PROP:**  
+**iv)**  starting from the input(s), write step by step the corresponding FORWARD PROP  
       operations. it is good practice to denote step numbers in the comments for every step.
       to avoid broadcasting errors, it is recommended to stay consistent with tensor shapes
       specifically, tensors with shape (m,) should be reshaped to a shape of (m,1).
@@ -35,7 +35,8 @@ better=a/c
      the cache as well). If a separate function is called for back prop, unpack the cache at the
      beginning of the function
          
-**vi)** **BACK PROP:**  
+**BACK PROP:**  
+**vi)**  
          starting from the output, write step by step the corresponding BACK PROP operations.
          comment step numbers and dimensions of tensors for legibility. Note that if tensor Z has
          shape (m,n), dL/dZ (commonly abbreviated as dZ) will and should also have shape (m,n).
