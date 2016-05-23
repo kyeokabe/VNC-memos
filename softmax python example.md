@@ -1,6 +1,8 @@
 #Softmax Python Example  
 ###This file takes the softmax linear classifier as an example, and shows how to implement *legible* forward & back propagation code in python from scratch.
 
+Refer **[here](https://github.com/kyeokabe/notes/blob/master/deep%20learning%20figures.pdf)** for specific examples of computational graphs including the softmax described here 
+
 **PAPERWORK:**  
 **(1)**  write down the mathematical equation governing the relation between inputs  
         and outputs
