@@ -1,3 +1,10 @@
+##1 Introduction##  
+  
+**1.1 Example: Polynomial Curve Fitting**  
+**1.2 Probablity Theory**  
+**1.2.1 Probability Densities**  
+
+
 **1.4 The Curse of Dimensionality**  
   
 * Practical data: high dimensionality & many input variables
