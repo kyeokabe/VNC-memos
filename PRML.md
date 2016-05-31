@@ -1,9 +1,13 @@
 **1.4 The Curse of Dimensionality**  
   
+* Practical data: high dimensionality & many input variables
+* Fig. 1.19: Want to classify "X". Intuition tells us to classify to near labbels (=green or red)
+* Fig. 1.20: input space divided into cells based on majority number of representations
+* Fig. 1.19 & 1.20 was a 2D example. **As D increases, the number of regular grids grows exponentially.**
 * Not all intuitions developen in spaces of low dimensionality will generalize to spaces of high dimensionality  
 * e.g. Fig. 1.22: Fraction of the volume of a sphere lying in the surface increases as dimensionality D increases  
 * The dimensionality curse does not precent us from finding effective techniques qpplicable to high dimensional space  
-* why? Two reasons  
+* why? Two reasons:  
 * Reason 1: Real data usually is confined in a lower effective dimensionality
 * Reason 2: Often in real data, small change in input variable will produce changes in the target variable  
 * Succesful pattern recognition techniques exploit these two properties  
