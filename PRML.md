@@ -13,6 +13,12 @@
 * **Regression**    : assign input vector to **continuous** output
 * e.g. predict chemical raction yeild given inputs of concentrations of reactants, temperatures, pressures, etc.
 
+* **Unsupervised learning**: training data comprises input vectors x without any corresponding target vectors
+* Typical objectives of unsupervised learning: 
+* **1. clustering**: Discover groups of similar examples within the data  
+* **2. density estimation**: Determine the distribution of data within the input space
+* **3. visualization**: Project the data from a high dimensional space down to two or three dimensions  
+
 * This chapter introduces three important tools: 
 * **1. Probability Theory**  
 * **2. Decision Theory**  
