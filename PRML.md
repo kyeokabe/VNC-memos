@@ -19,6 +19,8 @@
 * **2. density estimation**: Determine the distribution of data within the input space
 * **3. visualization**: Project the data from a high dimensional space down to two or three dimensions  
 
+* **Reinforcement learning**: finding suitable actions to take in a given situation to maximize a reward  
+
 * This chapter introduces three important tools: 
 * **1. Probability Theory**  
 * **2. Decision Theory**  
