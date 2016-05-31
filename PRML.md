@@ -7,6 +7,7 @@
 * Most practical applications preprocess input variables  
 * This makes solving a problem easy and efficient  
   
+* **Supervised learning**: training data comprises examples of the input vectors along with corresponding target vectors
 * **Classification**: assign input vector to finite **discrete** categories
 * e.g. digit recognition 
 * **Regression**    : assign input vector to **continuous** output
