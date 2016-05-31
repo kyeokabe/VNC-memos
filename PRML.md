@@ -1,9 +1,22 @@
 ##1 Introduction
 
+* Consider an example of classifying an image of a digit into a digit
+* Handcrafted rules leads to proliferation of rules and of exceptions to the rules leading to poor results
+* One good way is to *learn* a function y(x) which maps input x (image of digit) into the corresponding digit    
+* The ability to categorize a new sample correctly is called *generalization*
+* Most practical applications preprocess input variables  
+* This makes solving a problem easy and efficient  
+  
+* **Classification**: assign input vector to finite **discrete** categories
+* e.g. digit recognition 
+* **Regression**    : assign input vector to **continuous** output
+* e.g. predict chemical raction yeild given inputs of concentrations of reactants, temperatures, pressures, etc.
+
 * This chapter introduces three important tools: 
 * **1. Probability Theory**  
 * **2. Decision Theory**  
 * **3. Information Theory**  
+
   
 **1.1 Example: Polynomial Curve Fitting**  
 **1.2 Probablity Theory**  
