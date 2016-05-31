@@ -10,7 +10,7 @@
 * **Supervised learning**: training data comprises examples of the input vectors along with corresponding target vectors
 * **Classification**: assign input vector to finite **discrete** categories
 * e.g. digit recognition 
-* **Regression**    : assign input vector to **continuous** output
+* **Regression**    : assign input vector to **continuous** output  
 * e.g. predict chemical raction yeild given inputs of concentrations of reactants, temperatures, pressures, etc.
 
 * **Unsupervised learning**: training data comprises input vectors x without any corresponding target vectors
