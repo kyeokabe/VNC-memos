@@ -1,4 +1,9 @@
-##1 Introduction##  
+##1 Introduction
+
+* This chapter introduces three important tools: 
+* **1. Probability Theory**  
+* **2. Decision Theory**  
+* **3. Information Theory**  
   
 **1.1 Example: Polynomial Curve Fitting**  
 **1.2 Probablity Theory**  
