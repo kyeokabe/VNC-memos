@@ -7,13 +7,13 @@
 * Most practical applications preprocess input variables  
 * This makes solving a problem easy and efficient  
   
-* **Supervised learning**: training data comprises examples of the input vectors along with corresponding target vectors
+* **Supervised learning**: training data comprises examples of the input vectors along with corresponding target vectors  
 * **Classification**: assign input vector to finite **discrete** categories
-* e.g. digit recognition 
+* e.g. digit recognition  
 * **Regression**    : assign input vector to **continuous** output  
-* e.g. predict chemical raction yeild given inputs of concentrations of reactants, temperatures, pressures, etc.
+* e.g. predict chemical raction yeild given inputs of concentrations of reactants, temperatures, pressures, etc.  
 
-* **Unsupervised learning**: training data comprises input vectors x without any corresponding target vectors
+* **Unsupervised learning**: training data comprises input vectors x without any corresponding target vectors  
 * Typical objectives of unsupervised learning: 
 * **1. clustering**: Discover groups of similar examples within the data  
 * **2. density estimation**: Determine the distribution of data within the input space
