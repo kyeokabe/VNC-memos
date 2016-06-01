@@ -8,7 +8,7 @@ All notes in this folder are from [here](http://bin.t.u-tokyo.ac.jp/prml2009/)
 **[Ch. 6](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch6.pdf) Kernel Methods**  
 **[Ch. 7](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch7.pdf) Sparse Kernel Methods**  
 **[Ch. 8](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch8.pdf) Graphical Models**...[alternative](http://www.slideshare.net/takafumisakakibara75/slide-44207685?qid=b2319ce4-1396-434b-83d6-9681c9715a2f&v=&b=&from_search=5)  
-**[Ch. 9](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch9.pdf) Mixture Models and EM**  
+**[Ch. 9](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch9.pdf) Mixture Models and EM (混合モデルとEM)**  
 **[Ch. 10](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch10.pdf) Approximate Inference (近似推論法)**  
 **[Ch. 11](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch11.pdf) Sampling Methods (サンプリング法)**  
 **[Ch. 12](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch12.pdf) Continuous Latent Variables (連続潜在データ)**  
