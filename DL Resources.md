@@ -9,11 +9,11 @@
 **7. [dennybritz DL Repository](https://github.com/dennybritz/deeplearning-papernotes)** ... most comprehensive summary of DL ArXiv papers on the web  
 **8. [Hugo Larochelle Lectures] (https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)**  
 
-**blogs**
-[Andrej Karpathy](http://karpathy.github.io/)
-[Thomasz Malisiewicz](http://www.computervisionblog.com/)
-[Shakir Mohamed](http://blog.shakirm.com/)
-[Ferenc Huszár](http://www.inference.vc/)
+**blogs**  
+**[Andrej Karpathy](http://karpathy.github.io/)**  
+**[Thomasz Malisiewicz](http://www.computervisionblog.com/)**  
+**[Shakir Mohamed](http://blog.shakirm.com/)**  
+**[Ferenc Huszár](http://www.inference.vc/)**  
 
 **[GIT & GIT HUB tutorial](https://youtu.be/xKVlZ3wFVKA?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD)**  
 Pro Git: http://git-scm.com/book  
