@@ -6,5 +6,13 @@ All notes in this folder are from [here](http://bin.t.u-tokyo.ac.jp/prml2009/)
 **[Ch. 4](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch4.pdf)**  
 **[Ch. 5](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch5.pdf)**  
 **[Ch. 6](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch6.pdf)**  
+**[Ch. 7](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch7.pdf)**  
+**[Ch. 8](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch8.pdf)**  
+**[Ch. 9](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch9.pdf)**  
+**[Ch. 10](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch10.pdf)**  
+**[Ch. 11](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch11.pdf)**  
+**[Ch. 12](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch12.pdf)**  
+**[Ch. 13](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch13.pdf)**  
+**[Ch. 14](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch14.pdf)**  
 
 ... 
