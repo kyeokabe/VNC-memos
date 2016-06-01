@@ -13,6 +13,4 @@ All notes in this folder are from [here](http://bin.t.u-tokyo.ac.jp/prml2009/)
 **[Ch. 11](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch11.pdf) Sampling Methods (サンプリング法)**  
 **[Ch. 12](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch12.pdf) Continuous Latent Variables (連続潜在データ)**  
 **[Ch. 13](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch13.pdf) Sequential Data (系列データ)**  
-**[Ch. 14](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch14.pdf) Combining Methods**  
-
-... 
+**[Ch. 14](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch14.pdf) Combining Methods (モデルの結合)**  
