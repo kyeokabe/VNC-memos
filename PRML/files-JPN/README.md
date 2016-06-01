@@ -2,7 +2,7 @@ All notes in this folder are from [here](http://bin.t.u-tokyo.ac.jp/prml2009/)
 
 **Ch. 1 Introduction (序論) [part 1](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch1_part1.pdf) [part 2](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch1_part2.pdf)**   
 **Ch. 2 Probability Distributions [part 1](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch2_part1.pdf) [part2](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch2_part2.pdf)**     
-**[Ch. 3](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch3.pdf) Linear Models for Regression**    
+**[Ch. 3](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch3.pdf) Linear Models for Regression (線形回帰モデル)**    
 **[Ch. 4](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch4.pdf) Linear Models for Classification (線形識別モデル)**  
 **[Ch. 5](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch5.pdf) Neural Networks (ニューラルネットワーク)**  
 **[Ch. 6](https://github.com/kyeokabe/notes/blob/master/PRML/files-JPN/PRML_Ch6.pdf) Kernel Methods (カーネル法)**  
