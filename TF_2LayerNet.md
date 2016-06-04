@@ -2,7 +2,8 @@
 [**[TF Notes](https://github.com/samjabrahams/tensorflow-white-paper-notes)**]
 [**[TF Examples](https://github.com/pkmital/tensorflow_tutorials)**]
 [**[TF Examples 2](https://github.com/nlintz/TensorFlow-Tutorials)**]
-[**[TF API](https://www.tensorflow.org/versions/r0.8/api_docs/python/index.html)**]
+[**[TF API](https://www.tensorflow.org/versions/r0.8/api_docs/python/index.html)**]  
+[**[Awesome TF](https://github.com/jtoy/awesome-tensorflow)**]  
 ###overview of steps
 **1. Download and run TF_2LayerNet.py**  
 **2. *Activate* TensorBoard**  
