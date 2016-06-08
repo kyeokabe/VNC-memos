@@ -15,6 +15,16 @@
 **[Shakir Mohamed](http://blog.shakirm.com/)**  
 **[Ferenc Huszár](http://www.inference.vc/)**  
 
+**labs**  
+**[Open Ai]**  
+**[Deep Mind]**  
+**[Bengio@Montreal]**  
+**[LeCun@NYU]**  
+**[Tenenbaum@MIT]**  
+**[Li@Stanford]**  
+**[Efros@Berkeley]**  
+
+
 **[GIT & GIT HUB tutorial](https://youtu.be/xKVlZ3wFVKA?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD)**  
 Pro Git: http://git-scm.com/book  
 GitHub Help: https://help.github.com/  
